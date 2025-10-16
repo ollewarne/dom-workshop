@@ -17,5 +17,5 @@ document.body.appendChild(titel)
 document.body.appendChild(paragraf)
 document.body.appendChild(box)
 
-paragraf.textContent = "16 oktober"
+paragraf.textContent = "20 oktober"
 
