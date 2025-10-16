@@ -25,7 +25,7 @@ function changeColor(event) {
    // box1.style.backgroundColor = 'pink';
 //})
 
-box1.addEventListener('mouseover', changeColor);
+box1.addEventListener('mouseover', changeColor); // callback function 
 
 box2.addEventListener('mouseover', () => {
     box2.style.backgroundColor = 'purple';
