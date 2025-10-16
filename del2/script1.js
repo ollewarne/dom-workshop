@@ -19,3 +19,6 @@ removeText.addEventListener('click', () => {
      // paragraf.remove();
      paragraf.textContent = '';
 })
+
+
+
