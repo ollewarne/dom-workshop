@@ -18,3 +18,4 @@ document.body.appendChild(paragraf)
 document.body.appendChild(box)
 
 paragraf.textContent = "16 oktober"
+
